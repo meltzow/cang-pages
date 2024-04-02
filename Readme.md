@@ -10,7 +10,11 @@ Diese Datenschutzerklärung gilt für die Nutzung der XYZ-App (nachfolgend als "
 Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 Mario Meltzow
-Keilbergweg 14, 53894 Mechernich
+
+Keilbergweg 14
+
+53894 Mechernich
+
 cang-datenschutz@meltzow.net
 
 ### Arten der verarbeiteten Daten
@@ -41,7 +45,22 @@ Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern
 Für Fragen oder Anliegen zum Datenschutz können Sie sich jederzeit an uns wenden:
 
 Mario Meltzow
-Keilbergweg 14, 53894 Mechernich
+
+Keilbergweg 14
+
+53894 Mechernich
+
 cang-datenschutz@meltzow.net
 
 Stand: 04/2024
+
+## Impressum
+
+Mario Meltzow
+
+Keilbergweg 14
+
+53894 Mechernich
+
+cang-datenschutz@meltzow.net
+
