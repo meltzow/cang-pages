@@ -1,4 +1,4 @@
-# cang-pages
+# Cannabis Gesetz App
 
 ## Datenschutzerklärung
 
