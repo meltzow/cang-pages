@@ -11,7 +11,6 @@ Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverord
 
 Mario Meltzow
 Keilbergweg 14
-
 53894 Mechernich
 
 cang-datenschutz@meltzow.net
