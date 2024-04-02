@@ -10,7 +10,6 @@ Diese Datenschutzerklärung gilt für die Nutzung der XYZ-App (nachfolgend als "
 Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 Mario Meltzow
-
 Keilbergweg 14
 
 53894 Mechernich
