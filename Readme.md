@@ -4,7 +4,7 @@
 
 Datenschutzerklärung für die Cannabis Gesetz App
 
-Diese Datenschutzerklärung gilt für die Nutzung der XYZ-App (nachfolgend als "App" bezeichnet), die von Mario Meltzow (nachfolgend als "wir" oder "uns") entwickelt wurde. Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Nachfolgend möchten wir Sie daher über die Art, den Umfang und Zweck der Erhebung und Verwendung Ihrer personenbezogenen Daten informieren.
+Diese Datenschutzerklärung gilt für die Nutzung der Cannabis Gesetz-App (nachfolgend als "App" bezeichnet), die von Mario Meltzow (nachfolgend als "wir" oder "uns") entwickelt wurde. Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Nachfolgend möchten wir Sie daher über die Art, den Umfang und Zweck der Erhebung und Verwendung Ihrer personenbezogenen Daten informieren.
 
 ### Verantwortlicher
 Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
@@ -12,7 +12,6 @@ Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverord
 Mario Meltzow  
 Keilbergweg 14  
 53894 Mechernich  
-
 cang-datenschutz@meltzow.net
 
 ### Arten der verarbeiteten Daten
