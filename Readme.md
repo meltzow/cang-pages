@@ -42,23 +42,17 @@ Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern
 ### Kontakt
 Für Fragen oder Anliegen zum Datenschutz können Sie sich jederzeit an uns wenden:
 
-Mario Meltzow
-
-Keilbergweg 14
-
-53894 Mechernich
-
+Mario Meltzow  
+Keilbergweg 14  
+53894 Mechernich  
 cang-datenschutz@meltzow.net
 
 Stand: 04/2024
 
 ## Impressum
 
-Mario Meltzow
-
-Keilbergweg 14
-
-53894 Mechernich
-
-cang-datenschutz@meltzow.net
+Mario Meltzow  
+Keilbergweg 14  
+53894 Mechernich  
+cang@meltzow.net
 
